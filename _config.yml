@@ -1,4 +1,4 @@
 name: Hilary Wenyi Zheng
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: crossing
+remote_theme: barepants/crossing-jekyll
